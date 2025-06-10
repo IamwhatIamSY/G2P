@@ -1,0 +1,10 @@
+feature_1991: 0.0049
+feature_1988: 0.0039
+feature_2022: 0.0038
+feature_1995: 0.0037
+feature_1985: 0.0037
+feature_2430: 0.0036
+feature_1994: 0.0035
+feature_2019: 0.0032
+feature_2158: 0.0030
+feature_1980: 0.0030
